@@ -1,0 +1,21 @@
+body {
+  margin: 0px;
+  margin-top: -21px;
+  background-color: #f5fffa;
+}
+
+html {
+  margin: 0px;
+}
+
+.top {
+  background-image: url("/images/top.jpg");
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 450px;
+}
+
+.text_in_top {
+  text-align: center;
+}
